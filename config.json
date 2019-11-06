@@ -84,6 +84,7 @@
       "showNumber": false,
       "design": "default",
       "showBackGround": true,
+      "radius": 5.0,
       "items": [
         {
           "category": 44,
