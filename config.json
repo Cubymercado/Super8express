@@ -1,0 +1,194 @@
+{
+  "HorizonLayout": [
+    
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 50.0,
+      "items": [
+        {
+          "category": 28,
+          "image": "assets/icons/categories/coffee.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ],
+          "originalColor": false
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/categories/condiments.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ]
+        },
+        {
+          "category": 22,
+          "image": "assets/icons/categories/drinks.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ]
+        },
+        {
+          "category": 23,
+          "image": "assets/icons/categories/noodles.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ]
+        },
+        {
+          "category": 25,
+          "image": "assets/icons/categories/snacks.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ]
+        },
+        {
+          "category": 24,
+          "image": "assets/icons/categories/meds.png",
+          "colors": [
+            "#024EBE",
+            "#024EBE"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "radius": 5.0,
+      "shadow": 5.0,
+      "items": [
+        {
+          "category": 44,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/barcode-5.png",
+          "padding": 3.0
+          
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 5.0,
+      "items": [
+        {
+          "category": 44,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-12.png",
+          "padding": 15.0
+        },
+        {
+          "category": 25,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-14.png",
+          "padding": 15.0
+        },
+        {
+          "product": 31,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-13.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "radius": 5.0,
+      "items": [
+        {
+          "category": 37,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-16.png",
+          "padding": 5.0
+        },
+        {
+          "category": 37,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-15.png",
+          "padding": 5.0,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "name": {
+        "en": "Recent View",
+        "ab": "عرض الأخيرة",
+        "vi": "Xem gần đây"
+      },
+      "layout": "recentView"
+    },
+    {
+      "name": {
+        "en": "Featured flavours",
+        "ab": "مجموعات المرأة",
+        "vi": "Bộ sưu tập cho phụ nữ"
+      },
+      
+      "layout": "threeColumn",
+      "category": 19,
+      "isSnapping": true
+    },
+    {
+      "name": {
+        "en": "Drinks on special",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập cho đàn ông"
+      },
+      
+      "layout": "fourColumn",
+      "category": 22,
+      "isSnapping": true
+    },
+    {
+      "name": {
+        "en": "Cheap feed",
+        "ab": "مجموعات الرجل",
+        "vi": "Bộ sưu tập gần "
+      },
+      "layout": "threeColumn",
+      "limit": 20,
+      "category": 23
+    },
+    {
+      "name": {
+        "en": "Check out what's happening",
+        "ab": "مشاركة مظهرك",
+        "vi": "Chia sẻ"
+      },
+      "layout": "instagram",
+      "tag": "countdown_nz"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#024EBE",
+    "ProductListLayout": "list"
+  },
+  "TabBar": {
+    "Home": {
+      "isDisplay": true
+    },
+    "Category": {
+      "isDisplay": true
+    },
+    "Search": {
+      "isDisplay": false
+    },
+    "Cart": {
+      "isDisplay": true
+    },
+    "Profile": {
+      "isDisplay": true
+    }
+  }
+}
