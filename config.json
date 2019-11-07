@@ -14,7 +14,7 @@
       "radius": 50.0,
       "items": [
         {
-          "category": 40,
+          "category": 28,
           "image": "assets/icons/categories/coffee.png",
           "colors": [
             "#024EBE",
@@ -23,7 +23,7 @@
           "originalColor": false
         },
         {
-          "category": 25,
+          "category": 19,
           "image": "assets/icons/categories/condiments.png",
           "colors": [
             "#024EBE",
@@ -31,7 +31,7 @@
           ]
         },
         {
-          "category": 44,
+          "category": 22,
           "image": "assets/icons/categories/drinks.png",
           "colors": [
             "#024EBE",
@@ -39,7 +39,7 @@
           ]
         },
         {
-          "category": 37,
+          "category": 23,
           "image": "assets/icons/categories/noodles.png",
           "colors": [
             "#024EBE",
@@ -47,7 +47,7 @@
           ]
         },
         {
-          "category": 31,
+          "category": 25,
           "image": "assets/icons/categories/snacks.png",
           "colors": [
             "#024EBE",
@@ -55,7 +55,7 @@
           ]
         },
         {
-          "category": 45,
+          "category": 24,
           "image": "assets/icons/categories/meds.png",
           "colors": [
             "#024EBE",
@@ -71,7 +71,7 @@
       "items": [
         {
           "category": 44,
-          "image": "http://youtap.store/wp-content/uploads/2019/11/barcode-5.png",
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/barcode-5.png",
           "padding": 3.0
           
         }
@@ -87,18 +87,18 @@
       "radius": 5.0,
       "items": [
         {
-          "category": 44,
-          "image": "http://youtap.store/wp-content/uploads/2019/11/Promo-12.png",
+          "category": 25,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-12.png",
           "padding": 15.0
         },
         {
           "category": 25,
-          "image": "http://youtap.store/wp-content/uploads/2019/11//Promo-14.png",
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-14.png",
           "padding": 15.0
         },
         {
-          "product": 551,
-          "image": "http://youtap.store/wp-content/uploads/2019/11/Promo-19.png",
+          "product": 466,
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-13.png",
           "padding": 15.0
         }
       ]
@@ -109,12 +109,12 @@
       "items": [
         {
           "category": 37,
-          "image": "http://youtap.store/wp-content/uploads/2019/11/Promo-16.png",
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-16.png",
           "padding": 5.0
         },
         {
           "category": 37,
-          "image": "http://youtap.store/wp-content/uploads/2019/11//Promo-15.png",
+          "image": "http://35.247.135.82/wp-content/uploads/2019/11/Promo-15.png",
           "padding": 5.0,
           "featured": true
         }
@@ -130,13 +130,13 @@
     },
     {
       "name": {
-        "en": "Guilty pleasures",
+        "en": "Featured flavours",
         "ab": "مجموعات المرأة",
         "vi": "Bộ sưu tập cho phụ nữ"
       },
       
-      "layout": "fourColumn",
-      "category": 31,
+      "layout": "threeColumn",
+      "category": 19,
       "isSnapping": true
     },
     {
@@ -147,18 +147,18 @@
       },
       
       "layout": "fourColumn",
-      "category": 44,
+      "category": 22,
       "isSnapping": true
     },
     {
       "name": {
-        "en": "The peoples favourites",
+        "en": "Cheap feed",
         "ab": "مجموعات الرجل",
         "vi": "Bộ sưu tập gần "
       },
       "layout": "threeColumn",
       "limit": 20,
-      "category": 37
+      "category": 23
     },
     {
       "name": {
