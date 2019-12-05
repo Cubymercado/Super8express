@@ -3,7 +3,7 @@
     {
       "layout": "logo",
       "showMenu": true,
-      "showSearch": true
+      "showSearch": false
     },
     {
       "layout": "category",
